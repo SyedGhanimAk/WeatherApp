@@ -1,0 +1,78 @@
+/* Adjust position of material symbols */
+.material-symbols-outlined {
+    position: relative;
+    top: 3px;
+}
+
+/* Smooth transition effect for the body */
+body {
+    transition: .25s;
+}
+
+/* Smaller font size for form check labels */
+.form-check-label {
+    font-size: .8rem;
+}
+
+/* Smaller font size for tables */
+table {
+    font-size: .9rem;
+}
+
+/* Hide card elements by default */
+.card {
+    display: none;
+}
+
+/* Smooth transition effect for cards */
+.card {
+    transition: .35s;
+}
+
+/* blur effect */
+.Blur {
+    filter: blur(20px);
+}
+
+/* Cursor pointer for form check inputs and labels */
+.form-check-input,
+.form-check-label {
+    cursor: pointer;
+}
+
+/* Capitalize text in card headings and weather descriptions */
+h4,
+.WeatherDesc {
+    text-transform: capitalize;
+}
+
+/* Disable user selection for form switches */
+.form-switch {
+    user-select: none;
+}
+
+/* Styling for container elements */
+.container {
+    margin: 1.5rem;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* font size for unordered lists */
+ul {
+    font-size: .8rem;
+}
+
+/* Poppins font styles */
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
