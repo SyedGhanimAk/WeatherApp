@@ -25,11 +25,6 @@ This is a Weather App that provides current weather information for various citi
 2. Building the UI: Used HTML to create the structure of the app, including the search bar and weather display sections. Styled the app using CSS and Bootstrap for a clean and responsive design.
 3. Implementing Functionality: Used JavaScript to handle user interactions, such as searching for a city. Integrated API calls to fetch and display real-time weather data. Displayed additional weather details such as temperature, humidity, visibility, and wind speed. Listed popular cities with their respective weather information.
 
-# Screenshots
-![Weather App Screenshot](./Images/Screenshot_WeatherApp.png)
-![Weather App Dark Mode SCreenshot](./Images/Screenshot_DarkMode.png)
-
-
 # Notes
 
 1. Ensure you have an active internet connection as the application fetches data from the OpenWeather API.
