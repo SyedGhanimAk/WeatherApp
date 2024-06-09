@@ -15,7 +15,7 @@ This is a Weather App that provides current weather information for various citi
 
 # How to Run the Application Locally
 1. Clone the repository: git clone https://github.com/SyedGhanimAk/WeatherApp.git
-2. Navigate to the project directory: cd weather-app
+2. Navigate to the project directory: cd weatherApp
 3. Open the project in a code editor: You can open the project in your preferred code editor to make any changes or to view the code.
 4. Replace 'YOUR_API_KEY_HERE' with your actual API key in the following part of the code: let API_KEY = 'YOUR_API_KEY_HERE';
 5. Run the application using Live Server: Install the Live Server extension if you are using VS Code. You can install it from the Extensions Marketplace. Locate and select the "Go Live" option on the index.html file to access the Weather App.
