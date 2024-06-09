@@ -3,7 +3,7 @@ This is a Weather App that provides current weather information for various citi
 
 # Features
 1. Displays current weather information for a selected city.
-2. Provides additional weather details such as temperature, humidity, visibility, and wind speed.
+2. Provides weather details such as temperature, Text & Image-based Weather Description, Feels like temperature, Humidity, Max temperature, Min temperature, Visibility, and Wind speed.
 3. Lists weather information for popular cities.
 
 # Technologies Used:
