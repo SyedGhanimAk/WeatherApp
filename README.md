@@ -23,7 +23,7 @@ This is a Weather App that provides current weather information for various citi
 # Approach
 1. Setting up the API: Registered for the OpenWeather API and obtained the API key. Created functions to fetch weather data for a given city using the OpenWeather API.
 2. Building the UI: Used HTML to create the structure of the app, including the search bar and weather display sections. Styled the app using CSS and Bootstrap for a clean and responsive design.
-3. Implementing Functionality: Used JavaScript to handle user interactions, such as searching for a city. Integrated API calls to fetch and display real-time weather data. Displayed additional weather details such as temperature, humidity, visibility, and wind speed. Listed popular cities with their respective weather information.
+3. Implementing Functionality: Used JavaScript to handle user interactions, such as searching for a city. Integrated API calls to fetch and display real-time weather data. Displayed additional weather details such as temperature, Text & Image-based Weather Description, Feels like temperature, Humidity, Max temperature, Min temperature, Visibility, and Wind speed. Listed popular cities with their respective weather information.
 
 # Known Issues or Limitations
 1. Rate Limits: OpenWeather API may have rate limits for free users.
