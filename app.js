@@ -1,4 +1,4 @@
-// Selecting DOM elements
+ // Selecting DOM elements
 let searchInput = document.querySelector(".searchInput");
 let tblur = document.querySelector(".tBlur");
 let card = document.querySelector(".card");
@@ -44,7 +44,7 @@ let li6 = document.querySelector(".windSpeed");
 
 // API URL and key
 let GeocodingURL = 'https://api.openweathermap.org/data/2.5/weather';
-let API_KEY = 'a36ceeb9d874639cf77ecd8dd1af537b';
+let API_KEY = 'YOUR_API_KEY_HERE';
 
 // Get current date
 let currentDate = new Date();
